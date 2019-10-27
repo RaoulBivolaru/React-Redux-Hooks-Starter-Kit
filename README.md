@@ -1,6 +1,6 @@
 ## React Redux Hooks Starter Kit
 
-#### A starter kit which include a stuctured projet architecture + apiMiddleware wired with redux 
+#### A starter kit which includes a stuctured projet architecture + apiMiddleware wired with redux 
 #### The projet includes a data fetching exemple with React Redux and Hooks
 
 ## Installation
@@ -11,7 +11,7 @@
 ```
 $ npm install 
 ```
-*this will install all the required dependencies 
+this will install all the required dependencies 
 
 * run your project using the following command 
 
